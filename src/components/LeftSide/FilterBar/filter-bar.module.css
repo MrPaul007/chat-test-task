@@ -1,0 +1,34 @@
+.bar {
+    display: flex;
+    flex-direction: column;
+    max-height: 25vh;
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+    border-bottom: 2px solid rgb(211, 211, 211);
+}
+
+.profile {
+    width: 55px;
+    position: relative;
+    margin: 22px 30px;
+}
+
+.image {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.input {
+    height: 40px;
+    margin: 10px 30px;
+    padding-left: 40px;
+    padding-right: 15px;
+    font-size: 15px;
+    border: 1px solid rgb(242, 242, 242);
+    border-radius: 50px;
+}
+
+.input:focus {
+    outline-color: rgb(222, 222, 222);
+    color: rgb(125, 125, 125);
+}

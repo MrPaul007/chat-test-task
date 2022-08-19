@@ -1,0 +1,39 @@
+.item {
+    cursor: pointer;
+    display: flex;
+    padding: 20px 30px;
+    border-bottom: 1px solid rgba(190, 190, 190, 0.5);
+}
+
+.item:hover {
+    outline: 3px solid rgb(222, 222, 222);
+}
+
+.image {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.name {
+    padding-bottom: 5px;
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+}
+
+.message {
+    max-width: 400px;
+    font-size: 15px;
+    color: rgb(180, 180, 180);
+}
+
+.time {
+    margin-left: auto;
+    font-size: 14px;
+    color: rgb(100, 100, 100);
+}
+
+.wrapper {
+    position: relative;
+    margin-right: 25px;
+
+}

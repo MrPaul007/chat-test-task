@@ -1,0 +1,146 @@
+[
+  { "userInfo": {
+    "id": "id-1", 
+    "name": "Rosie Simpson",
+    "icon": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "messages": [
+      {
+        "id": "id-1_message-1",
+        "time": "6/29/22 7:52 AM",
+        "route": "outcome",
+        "text": "Work out? Are you serious right now?"
+      },
+      {
+        "id": "id-1_message-2",
+        "time": "6/29/22 8:00 AM",
+        "route": "income",
+        "text": "Good question - I am still trying to figure that out!"
+      }
+    ]
+  },
+  { "userInfo": {
+    "id": "id-2", 
+    "name": "Hermione Kline",
+    "icon": "https://randomuser.me/api/portraits/women/64.jpg"
+    },
+    "messages": [
+      {
+        "id": "id-2_message-1",
+        "time": "8/1/22 6:22 PM",
+        "route": "income",
+        "text": "The people at the gym know me by name"
+      },
+      {
+        "id": "id-2_message-2",
+        "time": "8/1/22 7:19 PM",
+        "route": "outcome",
+        "text": "Fitness is life!"
+      }
+    ]
+  },
+  { "userInfo": {
+    "id": "id-3", 
+    "name": "Simon Germann",
+    "icon": "https://randomuser.me/api/portraits/men/72.jpg"
+    },
+    "messages": [
+      {
+        "id": "id-3_message-1",
+        "time": "8/16/22 4:12 PM",
+        "route": "income",
+        "text": "Let`s go to the pub today? "
+      }
+    ]
+  },
+  { "userInfo": {
+    "id": "id-4", 
+    "name": "Annie Copeland",
+    "icon": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "messages": [
+      {
+        "id": "id-4_message-1",
+        "time": "3/8/22 11:40 PM",
+        "route": "income",
+        "text": "My car is very mindboggingly stupid!"
+      },
+      {
+        "id": "id-4_message-2",
+        "time": "3/9/22 09:19 AM",
+        "route": "outcome",
+        "text": "I offer support where I can"
+      },
+      {
+        "id": "id-4_message-3",
+        "time": "3/11/22 4:59 AM",
+        "route": "income",
+        "text": "I was bored"
+      },
+      {
+        "id": "id-4_message-4",
+        "time": "3/11/22 9:09 AM",
+        "route": "outcome",
+        "text": "It looked like fun"
+      },
+      {
+        "id": "id-4_message-5",
+        "time": "3/19/22 1:19 PM",
+        "route": "income",
+        "text": "Yes, but it is hard to get to!"
+      }
+    ]
+  },
+  { "userInfo": {
+    "id": "id-5", 
+    "name": "Chuck Norris",
+    "icon": "https://i.ibb.co/qxvWb2N/images.jpg"
+    },
+    "messages": [
+      {
+        "id": "id-5_message-1",
+        "time": "5/21/21 7:52 AM",
+        "route": "outcome",
+        "text": "Chuck Norris can drive two cars at the same time!!"
+      },
+      {
+        "id": "id-5_message-2",
+        "time": "5/22/21 8:00 AM",
+        "route": "income",
+        "text": "the temperature of hell is EXACTLY half that of Chuck Norris's sauna"
+      },
+      {
+        "id": "id-5_message-3",
+        "time": "5/22/21 9:03 AM",
+        "route": "outcome",
+        "text": "Chuck Norris can unscramble an egg"
+      },
+      {
+        "id": "id-5_message-4",
+        "time": "5/23/21 9:32 AM",
+        "route": "income",
+        "text": "Chuck Norris uses his tongue can sniff out snakes. His tongue can also strangle a snake. He uses his beard to fillet the snake into bite size pieces and mixes it in with bananas to top off his bowl of Post Toasties."
+      },
+      {
+        "id": "id-5_message-5",
+        "time": "5/23/21 9:34 AM",
+        "route": "income",
+        "text": "Unlike Santa Claus, Chuck Norris doesn't need to check his list twice."
+      }
+    ]
+  },
+  { "userInfo": {
+    "id": "id-6", 
+    "name": "Pavlo Pryidun",
+    "icon": "https://i.ibb.co/QPtrvxd/Pavlo-Pryidun.jpg"
+    },
+    "messages": [
+      {
+        "id": "id-6_message-1",
+        "time": "8/17/22 11:22 AM",
+        "route": "income",
+        "text": "Hope, you like my work"
+      }
+    ]
+  }
+]

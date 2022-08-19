@@ -1,0 +1,11 @@
+.text {
+    display: inline-block;
+    font-size: 15px;
+    max-width: 65%;
+}
+
+.time {
+    color: rgb(150, 150, 150);
+    font-size: 10px;
+    margin: 5px 10px;
+}

@@ -1,0 +1,23 @@
+.filterBar {
+    position: absolute;
+    bottom: 0;
+    right: 1px;
+    width: 20px;
+    height: 20px;
+}
+
+.nameBar {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0;
+    right: -5px;
+}
+
+.friendListItem {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0;
+    right: -5px;
+}
